@@ -1,4 +1,4 @@
-# Hi, I'm Jage
+# Hi, I'm Jage Jennings
 
 I'm a high school student interested in artificial intelligence, software development, cybersecurity, and entrepreneurship.
 
